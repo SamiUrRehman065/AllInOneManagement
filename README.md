@@ -133,6 +133,14 @@ This project is shared for educational and portfolio demonstration purposes only
 
 ---
 
+## 👨‍💻 Author
+
+Build with precision and passion by **Sami Ur Rehman**  
+📍 Karachi, Pakistan  
+🔗 [GitHub Profile](https://github.com/SamiUrRehman065)
+
+---
+
 ## 🧠 Developer Reflection
 
 This system was built, tested, and refined over 2.5 months of daily development. The design choices reflect my commitment to:

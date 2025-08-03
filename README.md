@@ -1,6 +1,6 @@
 ## 🧾 AllInOne Management System
-**Developer**: Sami Ur Rehman 
-A modular, offline Windows Forms application built in C# with SQL Server backend — designed for small-to-medium businesses to manage orders, customers, ledgers, raw materials, production, cash flow, and summary reports, all in one place. Every module is engineered for clarity, auditability, and real-world usability.
+- **Developer**: Sami Ur Rehman 
+- A modular, offline Windows Forms application built in C# with SQL Server backend designed for small-to-medium businesses to manage orders, customers, ledgers, raw materials, production, cash flow, and summary reports, all in one place. Every module is engineered for clarity, auditability, and real-world usability.
 
 ---
 
@@ -109,7 +109,7 @@ AllInOneManagement/
 
 - Fully offline installation using `Setup.exe` with bundled dependencies  
 - Includes SQL Server instance setup preconfigured for seamless onboarding  
-- No external DLLs or APIs — ideal for air-gapped environments  
+- No external DLLs or APIs ideal for air-gapped environments  
 - Runs smoothly on Windows 10/11 with minimal RAM footprint  
 
 ---
@@ -142,4 +142,4 @@ This system was built, tested, and refined over 2.5 months of daily development.
 - Professional presentation and documentation
 - Growth from academic learning to real-world systems
 
----
+
